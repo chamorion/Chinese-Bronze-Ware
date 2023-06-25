@@ -1,1 +1,1 @@
-# ChineseBronzeWare
+# Chinese Bronze Ware
