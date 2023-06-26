@@ -1,3 +1,4 @@
+*.pdf
 tmp
 ### VisualStudioCode template
 .vscode/*
